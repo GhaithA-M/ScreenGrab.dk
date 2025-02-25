@@ -12,3 +12,4 @@ D:\Projects\Programming\ScreenGrab.dk\obj\Debug\net8.0-windows\refint\ScreenGrab
 D:\Projects\Programming\ScreenGrab.dk\obj\Debug\net8.0-windows\ScreenGrab.dk.pdb
 D:\Projects\Programming\ScreenGrab.dk\obj\Debug\net8.0-windows\ScreenGrab.dk.genruntimeconfig.cache
 D:\Projects\Programming\ScreenGrab.dk\obj\Debug\net8.0-windows\ref\ScreenGrab.dk.dll
+D:\Projects\Programming\ScreenGrab.dk\obj\Debug\net8.0-windows\ScreenGrab.dk.sourcelink.json

@@ -20,7 +20,7 @@ namespace ScreenGrab
         {
             if (m.Msg == WM_HOTKEY)
             {
-                ScreenshotHandler.CaptureScreen();
+                Application.Run(new SelectionForm()); // Launch selection box
             }
         }
     }

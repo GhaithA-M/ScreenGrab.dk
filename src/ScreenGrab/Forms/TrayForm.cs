@@ -23,7 +23,7 @@ namespace ScreenGrab
             // Create a system tray icon
             trayIcon = new NotifyIcon
             {
-                Icon = SystemIcons.Application, // Change this to a custom icon later
+                Icon = SystemIcons.Application, // Temporary default icon
                 ContextMenuStrip = trayMenu,
                 Visible = true,
                 Text = "ScreenGrab"
@@ -32,7 +32,12 @@ namespace ScreenGrab
 
         private void OnScreenshot(object? sender, EventArgs e)
         {
-            ScreenshotHandler.CaptureScreen();
+            // Use Invoke to run on UI thread and prevent second message loop issue
+            this.Invoke((MethodInvoker)delegate
+            {
+                SelectionForm selectionForm = new SelectionForm();
+                selectionForm.ShowDialog(); // Use ShowDialog instead of Application.Run
+            });
         }
 
         private void OnExit(object? sender, EventArgs e)
@@ -40,6 +45,5 @@ namespace ScreenGrab
             trayIcon.Visible = false;
             Application.Exit();
         }
-
     }
 }
