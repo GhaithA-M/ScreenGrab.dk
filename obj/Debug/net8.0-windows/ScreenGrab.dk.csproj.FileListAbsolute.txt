@@ -1,0 +1,14 @@
+D:\Projects\Programming\ScreenGrab.dk\obj\Debug\net8.0-windows\ScreenGrab.dk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\ScreenGrab.dk\obj\Debug\net8.0-windows\ScreenGrab.dk.AssemblyInfoInputs.cache
+D:\Projects\Programming\ScreenGrab.dk\obj\Debug\net8.0-windows\ScreenGrab.dk.AssemblyInfo.cs
+D:\Projects\Programming\ScreenGrab.dk\obj\Debug\net8.0-windows\ScreenGrab.dk.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\ScreenGrab.dk\bin\Debug\net8.0-windows\ScreenGrab.dk.exe
+D:\Projects\Programming\ScreenGrab.dk\bin\Debug\net8.0-windows\ScreenGrab.dk.deps.json
+D:\Projects\Programming\ScreenGrab.dk\bin\Debug\net8.0-windows\ScreenGrab.dk.runtimeconfig.json
+D:\Projects\Programming\ScreenGrab.dk\bin\Debug\net8.0-windows\ScreenGrab.dk.dll
+D:\Projects\Programming\ScreenGrab.dk\bin\Debug\net8.0-windows\ScreenGrab.dk.pdb
+D:\Projects\Programming\ScreenGrab.dk\obj\Debug\net8.0-windows\ScreenGrab.dk.dll
+D:\Projects\Programming\ScreenGrab.dk\obj\Debug\net8.0-windows\refint\ScreenGrab.dk.dll
+D:\Projects\Programming\ScreenGrab.dk\obj\Debug\net8.0-windows\ScreenGrab.dk.pdb
+D:\Projects\Programming\ScreenGrab.dk\obj\Debug\net8.0-windows\ScreenGrab.dk.genruntimeconfig.cache
+D:\Projects\Programming\ScreenGrab.dk\obj\Debug\net8.0-windows\ref\ScreenGrab.dk.dll
